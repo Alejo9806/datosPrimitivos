@@ -1,0 +1,3 @@
+El modelo mustang del carro no excede el limite de velocidad
+El modelo toledo del carro no excede el limite de velocidad
+El modelo megane del carro no excede el limite de velocidad
