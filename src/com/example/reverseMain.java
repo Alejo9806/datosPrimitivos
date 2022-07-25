@@ -125,11 +125,7 @@ public class reverseMain {
 
             try{
                 byte[] datos = fileIn.readAllBytes();
-                for (byte dato :datos){
-                    System.out.println((char) dato);
-                    fileOut.println((char) dato);
-                }
-
+                fileOut.write(datos);
 
                 fileIn.close();
                 fileOut.close();
